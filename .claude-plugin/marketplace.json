@@ -13,7 +13,7 @@
       "name": "claude-tweaks",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/thomasholknielsen/claude-tweaks",
+        "url": "https://github.com/thn-inc/claude-tweaks",
         "path": "plugin",
         "sha": "ee9629425cad9881b7ea8479815b91df26edbda5"
       },
