@@ -15,7 +15,7 @@
         "source": "git-subdir",
         "url": "https://github.com/thn-inc/claude-tweaks",
         "path": "plugin",
-        "sha": "71d31dd88c80162135fca80287dea5aea62a84d4"
+        "sha": "9496d8be4df18a7df2e45edfb1bc9ed563f60871"
       },
       "description": "A structured workflow system for Claude Code — from idea capture through build, review, and wrap-up, tracked as a unified work record on GitHub Issues. Includes an LLM-as-judge recurring code-health sweep, browser automation, and QA pipeline.",
       "author": {
